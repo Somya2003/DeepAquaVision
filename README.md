@@ -64,5 +64,7 @@ DeepAquaVision is not just an image filter — it feels like a professional phot
 ---
 
 ![image alt](https://github.com/Somya2003/DeepAquaVision/blob/60e97b08b41375b6ef61ecad7faa749b897a8a2b/DeepAquaVision-main/Screenshot%20(215).png)
+
 ![image alt](https://github.com/Somya2003/DeepAquaVision/blob/60e97b08b41375b6ef61ecad7faa749b897a8a2b/DeepAquaVision-main/Screenshot%20(216).png)
+
 ![image alt](https://github.com/Somya2003/DeepAquaVision/blob/60e97b08b41375b6ef61ecad7faa749b897a8a2b/DeepAquaVision-main/Screenshot%20(217).png)
